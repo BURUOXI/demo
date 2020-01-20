@@ -1,0 +1,20 @@
+2020-01-13 17:43:54,756 logger.py [line:41] ERROR 'NoneType' object has no attribute 'click'
+2020-01-13 17:49:41,501 logger.py [line:35] INFO ('自动化测试脚本', '谢光福')
+2020-01-13 17:49:46,418 logger.py [line:35] INFO ('卡住了，不知道怎么回事，是不是网络波动', '谢光福')
+2020-01-13 17:50:06,321 logger.py [line:41] ERROR 'NoneType' object has no attribute 'click'
+2020-01-13 17:50:22,978 logger.py [line:41] ERROR 'NoneType' object has no attribute 'click'
+2020-01-13 17:50:39,427 logger.py [line:41] ERROR 'NoneType' object has no attribute 'click'
+2020-01-13 17:53:39,968 logger.py [line:35] INFO ('自动化测试脚本', '谢光福')
+2020-01-13 17:53:45,012 logger.py [line:35] INFO ('卡住了，不知道怎么回事，是不是网络波动', '谢光福')
+2020-01-13 17:54:05,039 logger.py [line:41] ERROR 'NoneType' object has no attribute 'click'
+2020-01-13 18:00:22,143 logger.py [line:35] INFO ('自动化测试脚本', '谢光福')
+2020-01-13 18:00:26,947 logger.py [line:35] INFO ('卡住了，不知道怎么回事，是不是网络波动', '谢光福')
+2020-01-13 18:01:32,856 logger.py [line:35] INFO ('自动化测试脚本', '谢光福')
+2020-01-13 18:01:37,968 logger.py [line:35] INFO ('卡住了，不知道怎么回事，是不是网络波动', '谢光福')
+2020-01-13 18:02:57,148 logger.py [line:35] INFO ('自动化测试脚本', '谢光福')
+2020-01-13 18:03:02,015 logger.py [line:35] INFO ('卡住了，不知道怎么回事，是不是网络波动', '谢光福')
+2020-01-13 18:06:33,827 logger.py [line:35] INFO ('自动化测试脚本', '谢光福')
+2020-01-13 18:06:38,885 logger.py [line:35] INFO ('卡住了，不知道怎么回事，是不是网络波动', '谢光福')
+2020-01-13 18:06:58,495 logger.py [line:41] ERROR 'NoneType' object has no attribute 'click'
+2020-01-13 18:07:14,942 logger.py [line:41] ERROR 'NoneType' object has no attribute 'click'
+2020-01-13 18:07:31,454 logger.py [line:41] ERROR 'NoneType' object has no attribute 'click'

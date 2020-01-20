@@ -1,0 +1,42 @@
+2020-01-11 11:01:52,824 logger.py [line:35] INFO 测试报告邮件发送成功
+2020-01-11 11:06:55,038 logger.py [line:41] ERROR 'NoneType' object has no attribute 'click'
+2020-01-11 11:07:50,362 logger.py [line:41] ERROR 'NoneType' object has no attribute 'click'
+2020-01-11 11:08:14,988 logger.py [line:35] INFO 导航栏切换通过,Response time is 0.015625
+2020-01-11 11:08:16,752 logger.py [line:35] INFO 跳转搜索切换通过,Response time is 0.015625
+2020-01-11 11:08:27,748 logger.py [line:35] INFO 搜索用户功能正常
+2020-01-11 11:08:38,198 logger.py [line:35] INFO 搜索动态功能正常
+2020-01-11 11:08:46,669 logger.py [line:35] INFO 退出搜索,Response time is 0.0
+2020-01-11 11:09:05,918 logger.py [line:35] INFO 进入动态详情
+2020-01-11 11:09:23,196 logger.py [line:41] ERROR 'NoneType' object has no attribute 'text'
+2020-01-11 11:09:39,859 logger.py [line:41] ERROR 'NoneType' object has no attribute 'click'
+2020-01-11 11:10:05,002 logger.py [line:35] INFO ('发布一个测试动态', '谢光福')
+2020-01-11 11:10:10,486 logger.py [line:35] INFO ('卡住了，不知道怎么回事，是不是网络波动', '谢光福')
+2020-01-11 11:10:30,297 logger.py [line:41] ERROR 'NoneType' object has no attribute 'click'
+2020-01-11 11:10:46,683 logger.py [line:41] ERROR 'NoneType' object has no attribute 'click'
+2020-01-11 11:11:02,928 logger.py [line:41] ERROR 'NoneType' object has no attribute 'click'
+2020-01-11 11:12:07,701 logger.py [line:35] INFO 测试报告邮件发送成功
+2020-01-11 11:39:53,637 logger.py [line:41] ERROR 'NoneType' object has no attribute 'click'
+2020-01-11 14:19:23,696 logger.py [line:41] ERROR Message: No alert is present on the screen
+
+2020-01-11 14:22:18,696 logger.py [line:41] ERROR Message: No alert is present on the screen
+
+2020-01-11 14:25:55,939 logger.py [line:41] ERROR Message: No alert is present on the screen
+
+2020-01-11 14:31:01,171 logger.py [line:41] ERROR Message: No alert is present on the screen
+
+2020-01-11 14:31:33,461 logger.py [line:41] ERROR Message: No alert is present on the screen
+
+2020-01-11 14:32:58,537 logger.py [line:41] ERROR Message: No alert is present on the screen
+
+2020-01-11 14:35:05,967 logger.py [line:41] ERROR Message: No alert is present on the screen
+
+2020-01-11 15:01:05,978 logger.py [line:41] ERROR Message: No alert is present on the screen
+
+2020-01-11 15:22:37,092 logger.py [line:35] INFO 进入动态详情
+2020-01-11 15:22:54,524 logger.py [line:41] ERROR 'NoneType' object has no attribute 'text'
+2020-01-11 15:23:11,072 logger.py [line:41] ERROR 'NoneType' object has no attribute 'click'
+2020-01-11 15:23:27,771 logger.py [line:41] ERROR 'NoneType' object has no attribute 'click'
+2020-01-11 15:23:45,737 logger.py [line:41] ERROR 'NoneType' object has no attribute 'click'
+2020-01-11 15:24:01,985 logger.py [line:41] ERROR 'NoneType' object has no attribute 'click'
+2020-01-11 15:41:15,326 logger.py [line:41] ERROR Message: No alert is present on the screen
+

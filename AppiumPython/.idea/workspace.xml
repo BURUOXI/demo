@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38f6bcef-54f0-4dc8-84f5-5237aaee59e0" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/config/waiqin_caps.yaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestCase/case_defind.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1UmXdBvVIuiewLCY4k4Obog7TCZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/reports/2020_01_08_15_00_00result.json" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Nosetests for case_z_logout.CaseLogout.test_logout_success">
+    <configuration name="homework" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AppiumPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/python/day9" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/python/day9/homework.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Nosetests for case_dynamic.CaseDynamic.test_mineDynamic_success" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <module name="AppiumPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;case_dynamic.CaseDynamic.test_mineDynamic_success&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Nosetests for case_pubulish.CaseLogout" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <module name="AppiumPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;case_pubulish.CaseLogout&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Nosetests for case_z_logout.CaseLogout" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <module name="AppiumPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;case_z_logout.CaseLogout&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Nosetests for case_z_logout.CaseLogout.test_logout_success" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <module name="AppiumPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;case_z_logout.CaseLogout.test_logout_success&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Nosetests for case_z_logout.CaseLogout.test_logout_success" />
+        <item itemvalue="Python tests.Nosetests for case_z_logout.CaseLogout" />
+        <item itemvalue="Python.homework" />
+        <item itemvalue="Python tests.Nosetests for case_dynamic.CaseDynamic.test_mineDynamic_success" />
+        <item itemvalue="Python tests.Nosetests for case_pubulish.CaseLogout" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38f6bcef-54f0-4dc8-84f5-5237aaee59e0" name="Default Changelist" comment="" />
+      <created>1575962828103</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575962828103</updated>
+      <workItem from="1575962829517" duration="16690000" />
+      <workItem from="1576048570534" duration="20514000" />
+      <workItem from="1576131829592" duration="12163000" />
+      <workItem from="1576201616389" duration="12203000" />
+      <workItem from="1576460447260" duration="16535000" />
+      <workItem from="1576549599793" duration="47253000" />
+      <workItem from="1576665645749" duration="28000" />
+      <workItem from="1576718257143" duration="33516000" />
+      <workItem from="1576982650544" duration="1394000" />
+      <workItem from="1577065711681" duration="6660000" />
+      <workItem from="1577253097332" duration="309000" />
+      <workItem from="1577254581521" duration="2599000" />
+      <workItem from="1577332359282" duration="2079000" />
+      <workItem from="1577409468130" duration="15818000" />
+      <workItem from="1577441366983" duration="1930000" />
+      <workItem from="1577669431856" duration="17905000" />
+      <workItem from="1577930196839" duration="13140000" />
+      <workItem from="1577958536843" duration="610000" />
+      <workItem from="1578014351931" duration="2487000" />
+      <workItem from="1578273209191" duration="20475000" />
+      <workItem from="1578360613337" duration="5813000" />
+      <workItem from="1578376071725" duration="15543000" />
+      <workItem from="1578392762654" duration="36000" />
+      <workItem from="1578393624323" duration="23000" />
+      <workItem from="1578447612608" duration="48903000" />
+      <workItem from="1578628547166" duration="273000" />
+      <workItem from="1578628835554" duration="10000" />
+      <workItem from="1578628859603" duration="1008000" />
+      <workItem from="1578634672589" duration="1587000" />
+      <workItem from="1578636282692" duration="5826000" />
+      <workItem from="1578643746253" duration="5528000" />
+      <workItem from="1578705966023" duration="14708000" />
+      <workItem from="1578879408422" duration="2447000" />
+      <workItem from="1578882145996" duration="23444000" />
+      <workItem from="1578965907896" duration="3724000" />
+      <workItem from="1578991117636" duration="813000" />
+      <workItem from="1579052650711" duration="12005000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Page/nearbyPeoplePage.py</url>
+          <line>134</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Page/nearbyPeoplePage.py</url>
+          <line>81</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Page/publishPage.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Page/publishPage.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_for_case_station_CasePack.coverage" NAME="Nosetests for case_station.CasePack Coverage Results" MODIFIED="1578474762012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/AppiumPython$logger.coverage" NAME="logger Coverage Results" MODIFIED="1576145812338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_for_case_login_CaseLogin.coverage" NAME="Nosetests for case_login.CaseLogin Coverage Results" MODIFIED="1576738176721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/AppiumPython$test.coverage" NAME="test Coverage Results" MODIFIED="1578565229191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_for_sharePage_Share.coverage" NAME="Nosetests for sharePage.Share Coverage Results" MODIFIED="1578364382147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_for_case_peopleNearby_Nearby.coverage" NAME="Nosetests for case_peopleNearby.Nearby Coverage Results" MODIFIED="1578646854266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_in_case_station_py.coverage" NAME="Nosetests in case_station.py Coverage Results" MODIFIED="1578392293783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_for_case_car_park_CaseLogin.coverage" NAME="Nosetests for case_car_park.CaseLogin Coverage Results" MODIFIED="1578299801865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_for_case_1_login_CaseLogin_test_login_success.coverage" NAME="Nosetests for case_1_login.CaseLogin.test_login_success Coverage Results" MODIFIED="1577430700128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_for_nearbyPeoplePage_Nearbypeople.coverage" NAME="Nosetests for nearbyPeoplePage.Nearbypeople Coverage Results" MODIFIED="1578645821259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page" />
+    <SUITE FILE_PATH="coverage/AppiumPython_master$Nosetests_in_LoginPage_py.coverage" NAME="Nosetests in LoginPage.py Coverage Results" MODIFIED="1576116904503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page" />
+    <SUITE FILE_PATH="coverage/AppiumPython$unearthPage.coverage" NAME="unearthPage Coverage Results" MODIFIED="1576724986147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_in_case_community_py.coverage" NAME="Nosetests in case_community.py Coverage Results" MODIFIED="1576738367496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_in_case_peopleNearby_py.coverage" NAME="Nosetests in case_peopleNearby.py Coverage Results" MODIFIED="1578646680307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_for_case_z_logout_CaseLogout.coverage" NAME="Nosetests for case_z_logout.CaseLogout Coverage Results" MODIFIED="1579084682666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_in_case_1_login_py.coverage" NAME="Nosetests in case_1_login.py Coverage Results" MODIFIED="1577430546459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_in_myActivityPage_py.coverage" NAME="Nosetests in myActivityPage.py Coverage Results" MODIFIED="1577947236867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_for_myActivityPage_Dynamic.coverage" NAME="Nosetests for myActivityPage.Dynamic Coverage Results" MODIFIED="1577950405880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_in_BasePage_py.coverage" NAME="Nosetests in BasePage.py Coverage Results" MODIFIED="1578724337224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_in_case_defind_py.coverage" NAME="Nosetests in case_defind.py Coverage Results" MODIFIED="1577443149084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_in_case_pubulish_py.coverage" NAME="Nosetests in case_pubulish.py Coverage Results" MODIFIED="1578908696406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_for_BasePage_Action.coverage" NAME="Nosetests for BasePage.Action Coverage Results" MODIFIED="1576640973291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_for_case_car_park_CasePack.coverage" NAME="Nosetests for case_car_park.CasePack Coverage Results" MODIFIED="1578364136394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_for_case_community_Casecommunity_test_switch_success.coverage" NAME="Nosetests for case_community.Casecommunity.test_switch_success Coverage Results" MODIFIED="1576568794647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/AppiumPython$case_login.coverage" NAME="case_login Coverage Results" MODIFIED="1576550968663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_for_case_pubulish_CaseLogout.coverage" NAME="Nosetests for case_pubulish.CaseLogout Coverage Results" MODIFIED="1578908836714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_for_LoginPage_Login.coverage" NAME="Nosetests for LoginPage.Login Coverage Results" MODIFIED="1576205375102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page" />
+    <SUITE FILE_PATH="coverage/AppiumPython_master$Nosetests_for_case_logout_CaseLogout_test_logout_success.coverage" NAME="Nosetests for case_logout.CaseLogout.test_logout_success Coverage Results" MODIFIED="1576052395075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_for_case_login_CaseLogin_test_login_success.coverage" NAME="Nosetests for case_login.CaseLogin.test_login_success Coverage Results" MODIFIED="1576738266287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_for_case_z_logout_CaseLogout_test_logout_success.coverage" NAME="Nosetests for case_z_logout.CaseLogout.test_logout_success Coverage Results" MODIFIED="1579084924274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_for_case_defind_CaseDfind_test_defind_success.coverage" NAME="Nosetests for case_defind.CaseDfind.test_defind_success Coverage Results" MODIFIED="1578727337784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_for_car_parkPage_Carpack.coverage" NAME="Nosetests for car_parkPage.Carpack Coverage Results" MODIFIED="1578364596106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_in_nearbyPeoplePage_py.coverage" NAME="Nosetests in nearbyPeoplePage.py Coverage Results" MODIFIED="1578556972511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_for_unearthPage_unearth.coverage" NAME="Nosetests for unearthPage.unearth Coverage Results" MODIFIED="1578291286454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_for_case_pubulish_CaseLogout_test_pubulish_success.coverage" NAME="Nosetests for case_pubulish.CaseLogout.test_pubulish_success Coverage Results" MODIFIED="1578908585837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/AppiumPython_master$Nosetests_for_LoginPage_Login.coverage" NAME="Nosetests for LoginPage.Login Coverage Results" MODIFIED="1576130541243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_for_stationPage_Station.coverage" NAME="Nosetests for stationPage.Station Coverage Results" MODIFIED="1578392209591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_for_Community_page_Community.coverage" NAME="Nosetests for Community_page.Community Coverage Results" MODIFIED="1576636923990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_for_case_station_CasePack_test_staion_success.coverage" NAME="Nosetests for case_station.CasePack.test_staion_success Coverage Results" MODIFIED="1578474912560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_for_case_dynamic_CaseDynamic_test_mineDynamic_success.coverage" NAME="Nosetests for case_dynamic.CaseDynamic.test_mineDynamic_success Coverage Results" MODIFIED="1578909972954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_for_case_dynamic_CaseDynamic.coverage" NAME="Nosetests for case_dynamic.CaseDynamic Coverage Results" MODIFIED="1577931465750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_in_unearthPage_py.coverage" NAME="Nosetests in unearthPage.py Coverage Results" MODIFIED="1577671064087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_in_case_dynamic_py.coverage" NAME="Nosetests in case_dynamic.py Coverage Results" MODIFIED="1578290077495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_for_case_community_Casecommunity_test_search_success.coverage" NAME="Nosetests for case_community.Casecommunity.test_search_success Coverage Results" MODIFIED="1578455520818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_for_case_1_login_CaseLogin.coverage" NAME="Nosetests for case_1_login.CaseLogin Coverage Results" MODIFIED="1577931209078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/AppiumPython$run_main.coverage" NAME="run_main Coverage Results" MODIFIED="1578711982437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AppiumPython$cmdb.coverage" NAME="cmdb Coverage Results" MODIFIED="1578893925955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AppiumPython_master$run_main.coverage" NAME="run_main Coverage Results" MODIFIED="1576118714661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_for_case_logout_CaseLogout.coverage" NAME="Nosetests for case_logout.CaseLogout Coverage Results" MODIFIED="1576551112201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_in_case_car_park_py.coverage" NAME="Nosetests in case_car_park.py Coverage Results" MODIFIED="1578366108568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_for_case_logout_CaseLogout_test_logout_success.coverage" NAME="Nosetests for case_logout.CaseLogout.test_logout_success Coverage Results" MODIFIED="1577430753915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/AppiumPython$homework.coverage" NAME="homework Coverage Results" MODIFIED="1579074827025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python/day9" />
+    <SUITE FILE_PATH="coverage/AppiumPython$case.coverage" NAME="case Coverage Results" MODIFIED="1576475717758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/unittest" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_for_case_defind_CaseDfind.coverage" NAME="Nosetests for case_defind.CaseDfind Coverage Results" MODIFIED="1577442676619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/AppiumPython_master$case_login.coverage" NAME="case_login Coverage Results" MODIFIED="1576131223228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/AppiumPython$get_toast.coverage" NAME="get_toast Coverage Results" MODIFIED="1576983301724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
+    <SUITE FILE_PATH="coverage/AppiumPython$Nosetests_for_case_car_park_CasePack_test_mineDynamic_success.coverage" NAME="Nosetests for case_car_park.CasePack.test_mineDynamic_success Coverage Results" MODIFIED="1578474610547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+  </component>
+</project>

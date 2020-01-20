@@ -1,0 +1,42 @@
+platformName: Android
+# 谷歌手机真机
+#platformVersion: 9
+#deviceName: 712KPJP1046300
+#noReset: True
+#noSign: True
+#unicodeKeyBoard: True
+#resetKeyboard: True
+#appPackage: com.yzw.yunzhuang
+#appActivity: .ui.activities.LaunchActivity
+#ip: 127.0.0.1
+#port: 4723
+#automationName: Uiautomator2
+
+#海信手机
+
+platformVersion: 8.1.0
+deviceName: 5239dae4
+noReset: True
+noSign: True
+unicodeKeyBoard: True
+resetKeyboard: True
+appPackage: com.yzw.yunzhuang
+appActivity: .ui.activities.LaunchActivity
+ip: 127.0.0.1
+port: 4723
+automationName: Uiautomator2
+
+#模拟器7.1
+#platformVersion: 7.1.2
+#deviceName: 127.0.0.1:62001
+#noReset: True
+#noSign: True
+#unicodeKeyBoard: True
+#resetKeyboard: True
+#appPackage: com.yzw.yunzhuang
+#appActivity: .ui.activities.LaunchActivity
+#ip: 127.0.0.1
+#port: 4723
+#automationName: Uiautomator2
+
+

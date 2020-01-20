@@ -1,0 +1,5 @@
+2020-01-09 16:47:52,203 logger.py [line:41] ERROR 'NoneType' object has no attribute 'text'
+2020-01-09 16:49:21,058 logger.py [line:41] ERROR 'NoneType' object has no attribute 'text'
+2020-01-09 16:51:18,801 logger.py [line:41] ERROR 'NoneType' object has no attribute 'text'
+2020-01-09 17:14:13,173 logger.py [line:41] ERROR 'NoneType' object has no attribute 'text'
+2020-01-09 17:14:54,258 logger.py [line:41] ERROR 'NoneType' object has no attribute 'text'
